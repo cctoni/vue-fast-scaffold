@@ -4,7 +4,7 @@ const generateTest = componentName => {
     // TODO: generate an inital test
 }
 
-comnst getFileByName = (args) => {
+const getFileByName = (args) => {
     const array = args.split(`/`)
 
     return array[array.length - 1]
