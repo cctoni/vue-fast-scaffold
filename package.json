@@ -1,6 +1,6 @@
 {
   "name": "vue-fast-scaffold",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package is used for creating vue components with multiple options and integrated tests via CLI.",
   "main": "index.js",
   "scripts": {
