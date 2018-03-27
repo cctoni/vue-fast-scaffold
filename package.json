@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha -R spec"
   },
+  "preferGlobal": true,
+  "bin": {
+    "vcs": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/tonihauptcc/vue-component-scaffold.git"
@@ -22,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/tonihauptcc/vue-component-scaffold/issues"
   },
-  "homepage": "https://github.com/tonihauptcc/vue-component-scaffold#readme"
+  "homepage": "https://github.com/tonihauptcc/vue-component-scaffold#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
 }
