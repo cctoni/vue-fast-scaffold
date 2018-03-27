@@ -1,0 +1,26 @@
+{
+  "name": "vue-compomnent-scaffold",
+  "version": "1.0.0",
+  "description": "This package is used for creating vue components with multiple options and integrated tests via CLI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tonihauptcc/vue-component-scaffold.git"
+  },
+  "keywords": [
+    "vue.js",
+    "components",
+    "scaffold",
+    "testing",
+    "CLI"
+  ],
+  "author": "Toni Haupt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonihauptcc/vue-component-scaffold/issues"
+  },
+  "homepage": "https://github.com/tonihauptcc/vue-component-scaffold#readme"
+}
