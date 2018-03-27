@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/tonihauptcc/vue-component-scaffold.git"
+    "url": "git+ssh://git@github.com/tonihauptcc/vue-fast-scaffold.git"
   },
   "keywords": [
     "vue.js",
@@ -24,9 +24,9 @@
   "author": "Toni Haupt",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tonihauptcc/vue-component-scaffold/issues"
+    "url": "https://github.com/tonihauptcc/vue-fast-scaffold/issues"
   },
-  "homepage": "https://github.com/tonihauptcc/vue-component-scaffold#readme",
+  "homepage": "https://github.com/tonihauptcc/vue-fast-scaffold#readme",
   "dependencies": {
     "minimist": "^1.2.0"
   },
